@@ -1,0 +1,29 @@
+@charset "Big5";
+.fb-comments, .fb-comments iframe[style] {
+	width: 100% !important;
+}
+
+.fb_iframe_widget, .fb_iframe_widget span, .fb_iframe_widget span iframe[style] {
+    width: 100% !important;
+}
+
+@media (min-width:1200px){
+.jumbotron {
+	color: inherit;
+	background-position: center top;
+	background-size: 100% auto;
+	background-repeat: no-repeat;
+	margin-top: 20px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+}
+
+@media (max-width:767px){
+}
+
+@media (min-width:768px){
+}
+
+@media (min-width:992px){
+}

@@ -1,0 +1,371 @@
+@charset "UTF-8";
+.logoallimg {
+	width: 81%;
+	margin-top: 85px;
+}
+.logoallimg2 {
+	width: 95%;
+	margin-top: 85px;
+}
+	.wbgh2-r {
+	font-size: 19px;
+	float: left;
+	clear: left;
+}
+.wbgh2-r-2 {
+	font-size: 24px;
+	float: left;
+	clear: left;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+	.wbgh2 {
+	font-size: 13px;
+	text-align: left;
+	line-height: 26px;
+	float: left;
+	clear: left;
+}
+.wbgh2-2 {
+	font-size: 16px;
+	text-align: left;
+	line-height: 28px;
+	float: left;
+	clear: left;
+}
+.icon-play{
+	background-image: url(../../img/wingsxiii/wplay.svg);
+	width: 9px;
+	height: auto;
+	margin-right: 2px;
+	margin-top: -1px;
+}
+	.mylogobigbn {
+	width: 82%;
+	margin-top: 25px;
+	margin-bottom: 0px;
+}
+.bannerh1 {
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: rgba(13, 13, 13, 0.8);
+	background-image: url(img/wingsxiii/Slash.png);
+	background-size: 10% auto;
+	background-repeat: repeat;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-weight: bold;
+	border-radius: 0px;
+	font-size: 16px;
+	color: rgba(255,255,255,1.00);
+	margin-top: 10px;
+	padding-right: 10px;
+}
+.bannerh6 {
+	font-size: 10pt;
+	width: 90%;
+	background-color: rgba(13, 13, 13, 0.8);
+	background-image: url(img/wingsxiii/Slash.png);
+	background-size: 10% auto;
+	background-repeat: repeat;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-weight: normal;
+	margin-left: auto;
+	margin-right: auto;
+	color: rgba(255,255,255,1.00);
+	margin-top: 11px;
+	padding-right: 5px;
+	padding-left: 5px;
+}
+.wingt01 {
+	text-align: center;
+	line-height: 30px;
+}
+.wingt02 {
+	text-align: left;
+}
+.wingt03 {
+	color: rgba(178,137,81,1.00);
+	font-size: 18pt;
+	text-align: center;
+}
+.wingt04 {
+	color: rgba(178,137,81,1.00);
+	font-size: 14pt;
+	text-align: center;
+}
+.wingt02-2 {
+	text-align: center;
+}
+.wimg01 {
+	width: 14%;
+	float: left;
+	margin-top: 10px;
+	margin-bottom: 21px;
+}
+wimg01-2 {
+	width: 20%;
+}
+.wsvgimg02 {
+	width: 102%;
+	float: left;
+	padding-bottom: 21px;
+}
+.wimgt04 {
+	color: rgba(209,10,29,1.00);
+	text-align: left;
+}
+.wimgt05 {
+	text-align: center;
+	line-height: 28px;
+	background-color: rgba(246,242,237,0.7);
+	padding-top: 20px;
+	padding-bottom: 20px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	border: 1px dashed rgba(255,255,255,1.00);
+}
+.wimgt06 {
+	line-height: 28px;
+	text-align: left;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+.wimgt07 {
+	font-size: 12px;
+	text-align: left;
+	line-height: 22px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	border-bottom: 1pt dotted #D5D5D5;
+	background-color: #FEF2F3;
+}
+.wimgt07-2 {
+	font-size: 12px;
+	text-align: left;
+	line-height: 22px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	border-bottom: 1pt dotted #D5D5D5;
+}
+.lien01 {
+	border-top: 1px dashed rgba(177,136,85,1.00);
+	margin-top: 20px;
+	margin-bottom: 15px;
+}
+.wing000 {
+	border: 2px solid rgba(177,136,85,1.00);
+}
+.wing000:hover {
+	border: 2px solid rgba(209,10,29,1.00);
+}
+.wing111 {
+	margin-bottom: 20px;
+}
+#portfolio3 {
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 60px;
+	left: auto;
+	right: auto;
+	text-align: center;
+	margin-bottom: 80px;
+}
+.wingt05 {
+	color: rgba(82,82,82,1.00);
+	font-size: 14pt;
+	text-align: center;
+}
+.wingstt001 {
+	color: #FF0004;
+	font-size: 18px;
+}
+.wingstt002 {
+	color: #D10A1D;
+	text-align: right;
+	float: right;
+}
+
+
+@media (max-width:320px){
+.wimg01 {
+	width: 14%;
+	float: left;
+	margin-top: 10px;
+	margin-bottom: 21px;
+}
+
+	.navbar-brand {
+	float: left;
+	padding-right: 15px;
+	padding-left: 15px;
+	font-size: 18px;
+	line-height: 20px;
+	width: 200px;
+	margin-top: 22px;
+	margin-left: 13px;
+}
+.navbar-default .navbar-header .navbar-brand img {
+	width: 100%;
+	padding-bottom: 0px;
+	margin-top: -24px;
+  }
+.mylogobigbn {
+	width: 82%;
+	margin-bottom: 0px;
+	margin-top: 25px;
+}
+.bannerh1 {
+	margin-left: auto;
+	margin-right: auto;
+	background-color: rgba(13, 13, 13, 0.8);
+	background-image: url(img/wingsxiii/Slash.png);
+	background-size: 10% auto;
+	background-repeat: repeat;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-radius: 92px;
+	margin-top: 7px;
+	margin-bottom: 50px;
+}
+.bannerh6 {
+	font-size: 10pt;
+	width: 94%;
+	background-color: rgba(13, 13, 13, 0.8);
+	background-image: url(img/wingsxiii/Slash.png);
+	background-size: 10% auto;
+	background-repeat: repeat;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-weight: normal;
+	margin-left: auto;
+	margin-right: auto;
+	color: rgba(255,255,255,1.00);
+	padding-right: 5px;
+	padding-left: 5px;
+	margin-top: -42px;
+}
+.mylogobigbn {
+	width: 80%;
+	margin-bottom: 0px;
+}
+}
+
+@media (min-width:1200px){
+.mylogobigbn {
+	width: 38%;
+}
+.navbar-default .navbar-header .navbar-brand img {
+	width: 279px;
+	margin-top: -16px;
+  }
+.wbgh2 {
+	font-size: 13px;
+	text-align: left;
+	line-height: 26px;
+}
+.wsvgimg01 {
+	width: 30%;
+}
+.bannerh1 {
+	font-size: 26pt;
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: rgba(13, 13, 13, 0.8);
+	background-image: url(img/wingsxiii/Slash.png);
+	background-size: 10% auto;
+	background-repeat: repeat;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-weight: bold;
+	border-radius: 6px;
+	color: rgba(255,255,255,1.00);
+	margin-top: 6px;
+}
+.bannerh6 {
+	font-size: 14pt;
+	width: 50%;
+	background-color: rgba(13, 13, 13, 0.8);
+	background-image: url(img/wingsxiii/Slash.png);
+	background-size: 10% auto;
+	background-repeat: repeat;
+	padding-top: 7px;
+	padding-bottom: 7px;
+	font-weight: normal;
+	border-radius: 6px;
+	margin-left: auto;
+	margin-right: auto;
+	color: rgba(255,255,255,1.00);
+	padding-right: 7px;
+	padding-left: 7px;
+	margin-top: 4px;
+}
+.wbgh2-r {
+	font-size: 19px;
+}
+.wbgimg {
+	background : -moz-radial-gradient(50% 2.56%, circle farthest-corner, rgba(255, 255, 255, 1) 0%, rgba(252, 252, 252, 1) 35.79%, rgba(243, 243, 243, 1) 59.43%, rgba(228, 228, 228, 1) 79.56%, rgba(207, 207, 207, 1) 97.62%, rgba(204, 204, 204, 1) 100%);
+	background : -webkit-radial-gradient(50% 2.56%, circle farthest-corner, rgba(255, 255, 255, 1) 0%, rgba(252, 252, 252, 1) 35.79%, rgba(243, 243, 243, 1) 59.43%, rgba(228, 228, 228, 1) 79.56%, rgba(207, 207, 207, 1) 97.62%, rgba(204, 204, 204, 1) 100%);
+	background : -webkit-gradient(radial,50% 2.56% ,0 , 50% 2.56%, 1157.21 ,color-stop(0,rgba(255, 255, 255, 1) ),color-stop(0.3579,rgba(252, 252, 252, 1) ),color-stop(0.5943,rgba(243, 243, 243, 1) ),color-stop(0.7956,rgba(228, 228, 228, 1) ),color-stop(0.9762,rgba(207, 207, 207, 1) ),color-stop(1,rgba(204, 204, 204, 1) ));
+	background : -o-radial-gradient(50% 2.56%, circle farthest-corner, rgba(255, 255, 255, 1) 0%, rgba(252, 252, 252, 1) 35.79%, rgba(243, 243, 243, 1) 59.43%, rgba(228, 228, 228, 1) 79.56%, rgba(207, 207, 207, 1) 97.62%, rgba(204, 204, 204, 1) 100%);
+	background-position: 50% 2.56%, circle farthest-corner, rgba(255, 255, 255, 1) 0%, rgba(252, 252, 252, 1) 35.79%, rgba(243, 243, 243, 1) 59.43%, rgba(228, 228, 228, 1) 79.56%, rgba(207, 207, 207, 1) 97.62%, rgba(204, 204, 204, 1) 100%);
+	background-color: -ms-radial-gradient(;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Stlye=2);"
+  background : radial-gradient(50% 2.56%, circle farthest-corner, rgba(255, 255, 255, 1) 0%, rgba(252, 252, 252, 1) 35.79%, rgba(243, 243, 243, 1) 59.43%, rgba(228, 228, 228, 1) 79.56%, rgba(207, 207, 207, 1) 97.62%, rgba(204, 204, 204, 1) 100%);
+  filter: progid:DXImageTransform.Microsoft.Alpha(Stlye=2);
+}
+}
+
+@media (min-width:992px){
+	.mylogobigbn {
+	width: 38%;
+	margin-bottom: 0px;
+}
+
+.bannerh1 {
+	font-size: 23pt;
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: rgba(13, 13, 13, 0.8);
+	background-image: url(img/wingsxiii/Slash.png);
+	background-size: 10% auto;
+	background-repeat: repeat;
+	padding-top: 6px;
+	padding-bottom: 6px;
+	font-weight: bold;
+	border-radius: 6px;
+	color: rgba(255,255,255,1.00);
+	margin-top: 6px;
+}
+.bannerh6 {
+	font-size: 13pt;
+	width: 50%;
+	background-color: rgba(13, 13, 13, 0.8);
+	background-image: url(img/wingsxiii/Slash.png);
+	background-size: 10% auto;
+	background-repeat: repeat;
+	padding-top: 7px;
+	padding-bottom: 7px;
+	font-weight: normal;
+	border-radius: 6px;
+	margin-left: auto;
+	margin-right: auto;
+	color: rgba(255,255,255,1.00);
+	padding-right: 7px;
+	padding-left: 7px;
+	margin-top: 4px;
+}
+
+}
+
+@media (max-width:767px){
+	
+}
+
+@media (min-width:768px){
+
+}
